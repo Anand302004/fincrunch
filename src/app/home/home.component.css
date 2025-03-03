@@ -1,0 +1,22 @@
+.justeify{
+    text-align: justify;
+}
+.img-hig{
+    height: 200px;
+    width: 100%;
+}
+.marg-top{
+    margin-top: 10px;
+}
+.img-hig2{
+    height: 250px;
+}
+.hig{
+    height: 570px;
+}
+.img-pading{
+    padding:  5%;
+}
+.border-radius{
+    border-radius: 15%;
+}
